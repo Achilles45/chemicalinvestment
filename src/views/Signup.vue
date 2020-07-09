@@ -43,6 +43,24 @@
                             <option value="450,000 promo">&#8358;450,000 to &#8358;950,000 (Promo plan)</option>
                             <option value="500,000 promo">&#8358;500,000 to &#8358;1,200,000 (Promo plan)</option>
                             <option value="1,000,000 promo">&#8358;1,000,000 to &#8358;2,000,000 (Promo plan)</option>
+                            <option value="$100 btc">&#8358;$100 btc to &#8358;$180 btc</option> 
+                            <option value="$150 btc">&#8358;$150 btc to &#8358;$240 btc</option> 
+                            <option value="$200 btc">&#8358;$200 btc to &#8358;$320 btc</option> 
+                            <option value="$250 btc">&#8358;$250 btc to &#8358;$400 btc</option> 
+                            <option value="$300 btc">&#8358;$300 btc to &#8358;$480 btc</option> 
+                            <option value="$350 btc">&#8358;$350 btc to &#8358;$560 btc</option> 
+                            <option value="$400 btc">&#8358;$400 btc to &#8358;$600 btc</option> 
+                            <option value="$450 btc">&#8358;$450 btc to &#8358;$720 btc</option> 
+                            <option value="$500 btc">&#8358;$500 btc to &#8358;$800 btc</option> 
+                            <option value="$1000 btc">&#8358;$1000 btc to &#8358;$1480 btc</option> 
+                            <option value="$1500 btc">&#8358;$1500 btc to &#8358;$2400 btc</option> 
+                            <option value="$3000 btc">&#8358;$3000 btc to &#8358;$3200 btc</option> 
+                            <option value="$500 btc promo">&#8358;$500 btc to &#8358;$1500 btc promo</option> 
+                            <option value="$1000 btc promo">&#8358;$1000 btc to &#8358;$3000 btc promo</option> 
+                            <option value="$2000 btc promo">&#8358;$2000 btc to &#8358;$6000 btc promo</option> 
+                            <option value="$3000 btc promo">&#8358;$3000 btc to &#8358;$9000 btc promo</option> 
+                            <option value="$4000 btc promo">&#8358;$4000 btc to &#8358;$12000 btc promo</option> 
+                            <option value="$5000 btc promo">&#8358;$5000 btc to &#8358;$15000 btc promo</option> 
                          </select>
                </div>
                <div class="form-group">

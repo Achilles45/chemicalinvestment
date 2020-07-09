@@ -91,6 +91,16 @@
                          <h6>Account Name:  {{ account_name }}</h6>
                      </div>
                   </div>
+                   <div class="summary__card four pt-4">
+                     <!-- <i class="fa fa-home"></i> -->
+                     <div class="content pl-2">
+                         <!-- <h6>Bank Accounts</h6> -->
+                         <h6>Bitcoin Payment</h6>
+                         <hr>
+                         <h6>Wallet Address: {{ wallet_address }}</h6>
+                         <!-- <h6>Account Name:  Usuoyibo Achilles Ewomamena</h6> -->
+                     </div>
+                  </div>
               </div>
               </div>
               <hr>
