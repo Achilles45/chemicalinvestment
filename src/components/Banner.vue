@@ -7,7 +7,7 @@
           <img class="carousel-img" src="../assets/images/hero2.jpeg" alt="First slide" />
           <div class="carousel-caption">
             <h1 class="animated bounceIn">EARN 50% PROFIT ON YOUR INVESTMENT IN 3 DAYS</h1>
-            <p>Make registration with Chemical and Pectroleum Investment and enjoy 50% profit in 3 working days</p>
+            <p>Make registration with Growth Investment and enjoy 50% profit in 3 working days</p>
             <router-link to="/signup" class="carousel-btn animated zoomIn animate3d">START NOW</router-link>
           </div>
         </div>
@@ -63,7 +63,7 @@ export default {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(4,9,30,.7);
+    background: rgba(4,9,30,.6);
   }
   .carousel-img {
     width: auto;
@@ -140,7 +140,7 @@ export default {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(4,9,30,.85) !important;
+    background: rgba(4,9,30,.7) !important;
   }
     .carousel-caption{
       position: absolute;

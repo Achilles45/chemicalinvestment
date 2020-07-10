@@ -2,62 +2,116 @@
   <div class="testimonial">
      <div class="container">
 	<div class="row">
-		<div class="col-md-8 col-center m-auto">
-			<h2>Testimonials</h2>
-			<div id="myCarousel" class="carousel slide" data-ride="carousel">
-				<!-- Carousel indicators -->
-				<ol class="carousel-indicators">
-					<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-					<li data-target="#myCarousel" data-slide-to="1"></li>
-					<li data-target="#myCarousel" data-slide-to="2"></li>
-					<li data-target="#myCarousel" data-slide-to="3"></li>
-					<li data-target="#myCarousel" data-slide-to="4"></li>
-				</ol>   
-				<!-- Wrapper for carousel items -->
-				<div class="carousel-inner">
-					<div class="item carousel-item active">
-						<div class="img-box"><img src="../assets/images/avatar.png" alt=""></div>
-						<p class="testimonial">Thank you Chemical & Pectroleum Investment. it's fast and paying platform. Don't miss out!</p>
-						<p class="overview"><b> Chiedozie Udemmadu</b>, Regular Investor</p>
-					</div>
-					<div class="item carousel-item">
-						<div class="img-box"><img src="../assets/images/avatar.png" alt=""></div>
-						<p class="testimonial">Wow.....! Firstly i thought it's all scam but today i now believe. I invested N10k on 21th March 2020 and i received N15k today N24th March 2020. Am so happy. LONG LIVE Chemical & Pectroleum Investment</p>
-						<p class="overview"><b>Okoye Ifenna Okwuchukwu</b>, Regular Investor</p>
-					</div>
-					<div class="item carousel-item">
-						<div class="img-box"><img src="../assets/images/avatar.png" alt=""></div>
-						<p class="testimonial">Chemical & Pectroleum Investment has done it again. Instant alert with peace of mind. Invest today and earn. Chemical & Pectroleum Investment all the way!</p>
-						<p class="overview"><b> Chukwuebuka Joshua Okparanze</b>, Regular Investor</p>
-					</div>
-                    <div class="item carousel-item">
-						<div class="img-box"><img src="../assets/images/avatar.png" alt=""></div>
-						<p class="testimonial">Thank you Chemical & Pectroleum Investment. You guys are real and working. Growth for life</p>
-						<p class="overview"><b> Ozukwe,patricia Enejeta</b>, Regular Investor</p>
-					</div>
-                    <div class="item carousel-item">
-						<div class="img-box"><img src="../assets/images/avatar.png" alt=""></div>
-						<p class="testimonial">It's absolutely lovely that I have been matched and paid today after my recommitment yesterday. Weldone Chemical & Pectroleum Investment.</p>
-						<p class="overview"><b> Okoye John</b>, Regular Investor</p>
-					</div>
-                     <div class="item carousel-item">
-						<div class="img-box"><img src="../assets/images/avatar.png" alt=""></div>
-						<p class="testimonial">That feeling when you are sure of cashing out on weekly basis.</p>
-						<p class="overview"><b> Divine Chidera</b>, Regular Investor</p>
-					</div>
-				</div>
-				<!-- Carousel controls -->
-				<a class="carousel-control left carousel-control-prev" href="#myCarousel" data-slide="prev">
-					<i class="fa fa-angle-left"></i>
-				</a>
-				<a class="carousel-control right carousel-control-next" href="#myCarousel" data-slide="next">
-					<i class="fa fa-angle-right"></i>
-				</a>
+		<div class="col-sm-12">
+			<h2>SEE WHAT PEOPLE ARE SAYING</h2>
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+	<!-- Carousel indicators -->
+	<!-- <ol class="carousel-indicators">
+		<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+		<li data-target="#myCarousel" data-slide-to="1"></li>
+		<li data-target="#myCarousel" data-slide-to="2"></li>
+		<li data-target="#myCarousel" data-slide-to="3"></li>
+		<li data-target="#myCarousel" data-slide-to="4"></li>
+	</ol>    -->
+	<!-- Wrapper for carousel items -->
+	<div class="carousel-inner">		
+		<div class="item carousel-item active">
+			<div class="img-box"><img src="../assets/images/user.png" alt=""></div>
+			<p class="testimonial">Wawo, i just got my money..Chemical and Petroleum investment is real, l have never seen a platform that this easy to pay, easy to receive,and easy to be confirmed..God bless you guys, l love you all and may God keep strengthen to this..Thank you so much..</p>
+			<p class="overview"><b>Owoh, Ann Echeleme</b>Investor</p>
+			<div class="star-rating">
+				<ul class="list-inline">
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+				</ul>
 			</div>
+		</div>
+		<div class="item carousel-item">
+			<div class="img-box"><img src="../assets/images/user.png" alt=""></div>
+			<p class="testimonial">Thank you Chemical and Petroleum investment. Am so happy to be part of this platform</p>
+			<p class="overview"><b> Abajingin Ayokanmi D</b>Investor</p>
+			<div class="star-rating">
+				<ul class="list-inline">
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+				</ul>
+			</div>
+		</div>
+		<div class="item carousel-item">
+			<div class="img-box"><img src="../assets/images/user.png" alt=""></div>
+			<p class="testimonial">This company is real my brother.. Come and joined the winning team</p>
+			<p class="overview"><b>Braimah Sanusi Elabor</b>Investor</p>
+			<div class="star-rating">
+				<ul class="list-inline">
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+				</ul>
+			</div>
+		</div>	
+		<div class="item carousel-item">
+			<div class="img-box"><img src="../assets/images/user.png" alt=""></div>
+			<p class="testimonial">They have done it again, alert keeps on entering, thanks to the day I joined this great platform, it keeps making me smiling every now and then, thanks Chemical and Petroleum investment</p>
+			<p class="overview"><b>Iheanyichukwu Uchegbu</b>Investor</p>
+			<div class="star-rating">
+				<ul class="list-inline">
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+					</ul>
+			</div>
+		</div>	
+		<div class="item carousel-item">
+			<div class="img-box"><img src="../assets/images/user.png" alt=""></div>
+			<p class="testimonial">I didn't believe it was real initially, Just received my first money now and I am really pleased. Thanks</p>
+			<p class="overview"><b>Chiedozie Udemmadu</b>Investor</p>
+			<div class="star-rating">
+				<ul class="list-inline">
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+				</ul>
+			</div>
+		</div>		
+		<div class="item carousel-item">
+			<div class="img-box"><img src="../assets/images/user.png" alt=""></div>
+			<p class="testimonial">The company is a trusted investment site, if you don't join now, you will join later.</p>
+			<p class="overview"><b>Ahmed Abdulquadir</b>Investor</p>
+			<div class="star-rating">
+				<ul class="list-inline">
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+					<li class="list-inline-item"><i class="fa fa-star"></i></li>
+				</ul>
+			</div>
+		</div>		
+	</div> 
+	<!-- Carousel controls -->
+	<a class="carousel-control left carousel-control-prev" href="#myCarousel" data-slide="prev">
+		<i class="fa fa-angle-left"></i>
+	</a>
+	<a class="carousel-control right carousel-control-next" href="#myCarousel" data-slide="next">
+		<i class="fa fa-angle-right"></i>
+	</a>
+</div>
 		</div>
 	</div>
 </div>
-  </div>
+</div>
 </template>
 
 <script>
@@ -69,14 +123,14 @@ export default {
 <style lang="scss" scoped>
 .testimonial{
     padding: 4rem 0;
-    h2 {
+  h2 {
 	color: #333;
 	text-align: center;
 	text-transform: uppercase;
 	font-family: "Roboto", sans-serif;
 	font-weight: bold;
 	position: relative;
-	margin: 30px 0 60px;
+	margin: 25px 0 50px;
 }
 h2::after {
 	content: "";
@@ -84,32 +138,30 @@ h2::after {
 	position: absolute;
 	margin: 0 auto;
 	height: 3px;
-	background: #8fbc54;
+	background: #ffdc12;
 	left: 0;
 	right: 0;
 	bottom: -10px;
 }
-.col-center {
-	margin: 0 auto;
-	float: none !important;
-}
 .carousel {
-	margin: 50px auto;
-	padding: 0 70px;
+	max-width: 650px;
+	margin: 0 auto;
+	padding-bottom: 50px;
 }
 .carousel .item {
 	color: #999;
 	font-size: 14px;
     text-align: center;
 	overflow: hidden;
-    min-height: 290px;
+    min-height: 340px;
 }
-.carousel .item .img-box {
-	width: 135px;
-	height: 135px;
+.carousel .item a {
+	color: #eb7245;
+}
+.carousel .img-box {
+	width: 145px;
+	height: 145px;
 	margin: 0 auto;
-	padding: 5px;
-	border: 1px solid #ddd;
 	border-radius: 50%;
 }
 .carousel .img-box img {
@@ -118,48 +170,59 @@ h2::after {
 	display: block;
 	border-radius: 50%;
 }
-.carousel .testimonial {
+.carousel .testimonial {	
 	padding: 30px 0 10px;
 }
 .carousel .overview {	
-	font-style: italic;
+	text-align: center;
+	padding-bottom: 5px;
 }
 .carousel .overview b {
+	color: #333;
+	font-size: 15px;
 	text-transform: uppercase;
-	color: #7AA641;
+	display: block;	
+	padding-bottom: 5px;
+}
+.carousel .star-rating i {
+	font-size: 18px;
+	color: #ffdc12;
 }
 .carousel .carousel-control {
-	width: 40px;
-    height: 40px;
-    margin-top: -20px;
-    top: 50%;
-	background: none;
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+    background: #999;
+    text-shadow: none;
+	top: 4px;
 }
 .carousel-control i {
-    font-size: 28px;
-	line-height: 42px;
-    position: absolute;
-    display: inline-block;
-	color: rgba(0, 0, 0, 0.8);
-    // text-shadow: 0 3px 3px #e6e6e6, 0 0 0 #000;
+	font-size: 20px;
+	margin-right: 2px;
+}
+.carousel-control.left {
+	left: auto;
+	right: 40px;
+}
+.carousel-control.right i {
+	margin-right: -2px;
 }
 .carousel .carousel-indicators {
-	bottom: -40px;
+	bottom: 15px;
 }
 .carousel-indicators li, .carousel-indicators li.active {
-	width: 10px;
-	height: 10px;
-	margin: 1px 3px;
-	border-radius: 100%;
+	width: 11px;
+	height: 11px;
+	margin: 1px 5px;
+	border-radius: 50%;
 }
 .carousel-indicators li {	
-	background: #999;
+	background: #e2e2e2;
 	border-color: transparent;
-	// box-shadow: inset 0 2px 1px rgba(0,0,0,0.2);
 }
-.carousel-indicators li.active {	
-	background: #ccc;		
-	// box-shadow: inset 0 2px 1px rgba(0,0,0,0.2);
+.carousel-indicators li.active {
+	border: none;
+	background: #888;		
 }
 }
 </style>
