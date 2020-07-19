@@ -16,7 +16,7 @@
               </div>
                <div class="card__content">
                   <img src="../assets/images/chart.svg" class="icons" alt="">
-                  <h3>MAKE MONEY TODAY USING GROWTH INVESTMENT</h3>
+                  <h3>GROW YOUR MONEY WITH US</h3>
                   <p>You will get profit of 50% ROI in 3 days on your first. No stress, no stories!</p>
                    <router-link to="/signup" class="card__btn">Get Started</router-link><br>
               </div>
